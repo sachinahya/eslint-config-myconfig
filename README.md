@@ -33,7 +33,7 @@ Peer dependencies: [eslint-plugin-sonarjs](https://github.com/SonarSource/eslint
 Enables TypeScript linting rules. Also enables the `myconfig/javascript` preset.
 
 Peer dependencies: [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/parser)
-[@typescript-eslint/eslint-parser](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin)
+[@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/parser)
 
 ### `myconfig/typescript-type-checking`
 
