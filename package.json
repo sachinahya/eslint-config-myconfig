@@ -13,7 +13,7 @@
   },
   "main": "./javascript.js",
   "files": [
-    "rules/*.js"
+    "*.js"
   ],
   "dependencies": {
     "eslint-config-prettier": "^6.10.0"
