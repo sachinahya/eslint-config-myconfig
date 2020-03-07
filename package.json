@@ -1,7 +1,20 @@
 {
-  "name": "eslint-config-myconfig",
+  "name": "@sachinahya/eslint-config-myconfig",
   "version": "0.1.0",
-  "main": "./javascript/index.js",
+  "author": "Sachin Ahya",
+  "license": "ISC",
+  "homepage": "https://github.com/sachinahya/eslint-config-myconfig#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinahya/eslint-config-myconfig.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sachinahya/eslint-config-myconfig/issues"
+  },
+  "main": "./javascript.js",
+  "files": [
+    "rules/*.js"
+  ],
   "dependencies": {
     "eslint-config-prettier": "^6.10.0"
   },
